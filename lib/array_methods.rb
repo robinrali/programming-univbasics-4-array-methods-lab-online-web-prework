@@ -7,8 +7,18 @@ def using_sort (array, element)
 end
 
 
-def using_size(array)
-array.size  
+def using_ reverse(array, element)
+
 end
 
-def using 
+def using_first (array, element)
+
+end
+
+def using_last (array, element)
+  
+end
+
+def using_size (array, element)
+  
+end
